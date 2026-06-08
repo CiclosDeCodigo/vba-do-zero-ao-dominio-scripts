@@ -8,7 +8,13 @@ por **Ciclos de Código — Rodrigo Minerva Colombo**
 
 Rodrigo Minerva Colombo  
 GitHub: https://github.com/CiclosDeCodigo  
-Linkedin: https://www.linkedin.com/in/rodrigo-minerva-colombo
+LinkedIn: https://www.linkedin.com/in/rodrigo-minerva-colombo
+
+## Livro
+
+Este repositório acompanha o livro **VBA — Do Zero ao Domínio**.
+
+📘 Disponível na Amazon: https://www.amazon.com.br/dp/B0CYCXQYXG  
 
 ---
 
